@@ -76,7 +76,7 @@
           },
           "arrowDown": "@THEME_PATH@/components/_images/header/arrowDown.png",
           "title": "Pulse Cafe",
-          "text": "105 Wrights Road, Addington<br>Mon-Fri: 7am—3pm<br><br>03-335 0439<br><br>",
+          "text": "<a href=\"https://goo.gl/maps/nZigJ8HMG5ZTNfem6\" target=\"_blank\">105 Wrights Road, Addington</a><br>Mon-Fri: 7am—3pm<br><br>03-335 0439<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"></a>",
           "alias": "colorm/components",
           "_tags": [
